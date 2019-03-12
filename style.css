@@ -1,0 +1,49 @@
+/* general */
+
+header {
+	padding: 156px 0 100px;
+  }
+  
+section {
+	padding: 150px 0;
+  }
+
+
+/* intro section */
+
+#logo {
+	max-width:25px;
+}
+
+#logo2 {
+	max-width:100px;
+}
+
+#logo-header {
+	max-width:150px;
+	padding: 7px 0;
+}
+
+#header-text {
+	padding-top: 115px;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.nav-item {
+	padding: 0 5px;
+}
+
+/* background */
+
+.bg-color {
+	background-color: #669797;
+}
+
+.bg-color-light {
+	background-color: #e0f1f1;
+}
+
+.background {
+	background-image: url(images/background.png);
+}
