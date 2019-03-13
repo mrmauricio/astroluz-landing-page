@@ -3,7 +3,7 @@ Landing page - Astro Luz
 
 ## Online Version:
 
-<https://mrmauricio.github.io/javascript_frogger/>
+<https://mrmauricio.github.io/astroluz-landing-page/>
 
 ## Technologies:
 
