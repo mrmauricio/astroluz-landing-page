@@ -7,4 +7,4 @@ Landing page - Astro Luz
 
 ## Technologies:
 
-HTML, CSS, Bootstrap;
+HTML, CSS, Bootstrap, Adobe Photoshop;
